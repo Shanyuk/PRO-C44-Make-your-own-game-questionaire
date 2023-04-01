@@ -1,1 +1,2 @@
-# PRO-C44-Make-your-own-game-questionaire
+# Make-Your-Own-Game-Questionaire
+PRO-C44: Game Story and Mechanics (Project Questionaire)
